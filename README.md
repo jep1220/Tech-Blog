@@ -47,6 +47,9 @@ THEN I am automatically signed out of the site
 ```
 
 
+[Link](https://drive.google.com/file/d/1_LYpwXvAD5vNemhpmxihyPWJ98aFR9z_/view) to complete working app video. 
+
+![image](https://user-images.githubusercontent.com/38770396/117529593-35a22380-af8d-11eb-90e3-d23764836ca5.png)
 
 
 
@@ -54,3 +57,17 @@ THEN I am automatically signed out of the site
 
 [Deployed Link](https://tech-bl0g.herokuapp.com/login)
 
+
+
+## Usage 
+
+Clone the repo, navigate to the root folder, run the following commands from the CLI:     
+
+Run Test;    
+`npm run test`     
+
+Seed DB;   
+`npm run seed`     
+
+Start Server;     
+`npm start server`     
